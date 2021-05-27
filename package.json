@@ -1,0 +1,19 @@
+{
+  "name": "discord-admin-role",
+  "version": "1.0.0",
+  "description": "Give the mentioned Role the Administrator permissions.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iDCoded/Discord-Role-Manager.git"
+  },
+  "author": "iDCoded",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iDCoded/Discord-Role-Manager/issues"
+  },
+  "homepage": "https://github.com/iDCoded/Discord-Role-Manager#readme"
+}
